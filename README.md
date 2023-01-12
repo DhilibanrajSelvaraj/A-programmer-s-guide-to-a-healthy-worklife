@@ -6,7 +6,8 @@ Every programmer is expected to spend half of their day, sometimes until midnigh
 We can use Python's time and pygame modules to set short alarms to remind ourselves to do simple exercises while we work. I wrote this code entirely on my own to assist my fellow programmers out there, punching keyboards.
 
 
-Requirements -
+Requirements:
+
 You will need to import following things -
 
 Mixer from pygame module
@@ -14,6 +15,8 @@ Mixer from pygame module
 Datetime from datetime module
 
 Time
+
+
 
 This will also generate and save a timestamp indicating when and where you performed what activity in a file format.
 
