@@ -10,7 +10,9 @@ Requirements -
 You will need to import following things -
 
 Mixer from pygame module
+
 Datetime from datetime module
+
 Time
 
 This will also generate and save a timestamp indicating when and where you performed what activity in a file format.
