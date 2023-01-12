@@ -1,5 +1,5 @@
 # A-programmer-s-guide-to-a-healthy-worklife
-An alarm guide to exercise healthy habits while building your code.
+Short: An alarm guide to exercise healthy habits while building your code.
 
 Every programmer is expected to spend half of their day, sometimes until midnight, in front of a screen, writing code.
 
