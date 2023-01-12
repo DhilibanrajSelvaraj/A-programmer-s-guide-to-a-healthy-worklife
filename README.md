@@ -10,11 +10,11 @@ Requirements:
 
 You will need to import following things -
 
-Mixer from pygame module
+1) Mixer from pygame module
 
-Datetime from datetime module
+2) Datetime from datetime module
 
-Time
+3) Time
 
 
 
